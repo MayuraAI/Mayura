@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/logo_512.png" alt="Mayura Logo" width="120" height="120">
+  <img src="https://github.com/MayuraAI/frontend/blob/main/public/logo_512.png" alt="Mayura Logo" width="120" height="120">
   
   # Mayura
   
