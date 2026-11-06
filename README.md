@@ -150,7 +150,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
   **Built with ❤️ by the Mayura Team**
   
-  [Pavan Manish](https://github.com/pavanmanishd) • [Sai Vishal](https://github.com/Vishal0129)
+  [Sanjana Reddy](https://github.com/sanjanareddyy13) • [Pavan Manish](https://github.com/pavanmanishd) • [Sai Vishal](https://github.com/Vishal0129)
   
   **⭐ If you found this helpful, please give us a star!**
   
